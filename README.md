@@ -1,0 +1,2 @@
+# SubmoduleRepository
+Это тестовый репозиторий.
